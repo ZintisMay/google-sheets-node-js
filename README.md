@@ -2,7 +2,7 @@
 
 ##### Project requires a .env file containing spreadsheetId to match the target spreadsheet (check the URL)
 
-https://docs.google.com/spreadsheets/d/THIS_VALUE_RIGHT_HERE/edit?gid=793339523#gid=793339523
+https://docs.google.com/spreadsheets/d/THIS_VALUE_RIGHT_HERE/
 
 ##### .env file should look like:
 
